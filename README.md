@@ -30,18 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShaikShani07&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikShani07&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikShani07&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
